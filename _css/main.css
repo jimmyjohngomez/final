@@ -1,0 +1,19 @@
+a{
+    text-decoration:none;
+    color:red;
+}
+#main li{
+    list-style-type:none;
+    display:inline;
+    padding:20px;
+    background-color:black;
+    border-radius:24pt;
+    margin:5px;
+}
+body{
+    font-family:Papyrus;
+    background-color:yellow;
+}
+#pepe li{
+    color:blue;
+}
